@@ -1,0 +1,55 @@
+.first{border: 2px solid aliceblue; height: 600px;}
+.wiki-name{margin-left: 500px;}
+.the{position: absolute;top: 120px; left: 540px; font-size: 20px; word-spacing: 2px;}
+.wiki-logo{position: absolute; top: 220px;left: 530px;}
+.one{display: flex;position: relative; bottom: 40px;}
+.english{margin-left: 450px; color: blue;}
+.china{margin-left: 150px; color: blue;}
+.small{position: relative;right: 25px; color: black;}
+.two{display: flex; position: relative;bottom:65px;}
+.spain{margin-left: 400px; color: blue;}
+.tiny{position: relative;right: 30px; color: black;}
+.piko{margin-left: 250px; color: blue;}
+.three{display: flex;position: relative;bottom: 80px;}
+.germ{margin-left: 400px; color: blue;}
+.france{margin-left: 260px; color:blue;}
+.big{position: relative;right: 40px; color: black;}
+.four{display: flex;position: relative;bottom: 90px;}
+.italy{margin-left: 400px;color: blue;}
+.bobo{margin-left: 270px; color: blue;}
+.slim{position: relative;right: 50px; color: black;}
+.sli{position: relative;right: 40px; color: black;}
+.five{display: flex; position: relative;bottom: 110px;}
+.cr{margin-left:450px ; color: blue;}
+.arab{margin-left: 170px; color: blue;}
+.fine{position: relative;right: 40px; color: black;}
+.field{width: 350px; border: 2px solid blue; height: 30px;}
+.six{position: relative; left: 400px; bottom: 100px;}
+.select{margin-left: 400px; height: 28px; width: 50px; margin-top: 5px; border: 1px solid none;}
+button{margin-left: 480px; height: 53px; width: 30px; position: relative;bottom: 52px; color: blue;background-color: blue;}
+.seven{position: relative; left: 470px; bottom: 120px;}
+.set{width: 300px;height: 20px; border: 1px solid;}
+.read{margin-left: 30px; word-spacing: 3px; margin-top: 40px;text-decoration: none; color: blue;}
+.second{border: 2px solid none;height: 730px; background-color: #ffffff; display: grid;grid-template-columns: 30% 70%;}
+.line-one{border: 1px solid none;}
+.row-one{ display: flex; margin-left: 7px;}
+.hosting-logo{width: 120px;position: relative ;top: 40px; height: 50px;}
+.hosted{margin-right: 0px; margin-top: 40px; line-height: 20px;}
+.host-link{text-decoration: none;color: blue;}
+.row-two{display: flex;border: 2px solid #f8f9fa; height: 220px; width: 300px; background-color: #f8f9fa;margin-left: 30px; }
+.wiki-svg{width: 50px; height: 40px;position: relative; top: 20px; left: 10px;}
+.save{margin-left: 15px; line-height: 20px;}
+.ios{text-decoration: none;color: blue;}
+.google{ width: 140px;height: 60px; position: relative; bottom: 60px; left: 60px;}
+.apple{ width: 150px;height: 60px; position: relative;bottom: 60px;left: 50px;}
+.line-two{display: grid; border: 2px solid none; grid-template-columns: 25% 25% 25%; margin-top: 40px; column-gap: 39px; row-gap: 39px; margin-left: 50px;}
+.stuff{border: 1px solid none;height: 100px; ;}
+.display{display: flex; line-height: 20px;}
+.common{ width: 50px;height: 40px; margin-top: 20px;}
+.father{color: blue;}
+.freely{color: black;}
+.third{display: flex; margin-left: 300px;}
+.share{color: blue;}
+.dot{color: black;}
+
+
